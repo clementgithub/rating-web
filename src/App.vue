@@ -19,7 +19,7 @@ export default {
 
 // main css
 body {
-  background-color: #F0001;
+  background-color: #F0000;
   --azure-blue: #0071c5;
   --msft-green: #4e7200;
   --msft-orange: #c72b00;
